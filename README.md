@@ -13,8 +13,7 @@ N/A.
 
 ## Usage
 
-To use this Prework Study Guide refer to the notes in each section.
-For suggestions of what to study first open the Chrome Dev Tools 
+https://meisterstu.github.io/Horiseon-Marketing/ 
 
 ## Credits
 
